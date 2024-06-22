@@ -1,0 +1,16 @@
+{
+  "name": "mysql-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "40 consultas sql",
+  "dependencies": {
+    "mysql2": "^3.10.1"
+  }
+}
